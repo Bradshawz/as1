@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">abradsha-FuelTrack</string>
+    <string name="add_fuel">Add New Log</string>
+    <string name="save">Save</string>
+    <string name="back">Back</string>
+    <string name="information">Fuel Information</string>
+
+    <string name="date_hint">eg. 2016-01-18</string>
+    <string name="station_hint">eg. Costco</string>
+    <string name="odometer_hint">eg. 2241.8</string>
+    <string name="fuel_grade_hint">eg. Regular</string>
+    <string name="fuel_amount_hint">eg. 30.345</string>
+    <string name="fuel_total_hint">eg. 60.8</string>
+    <string name="total_cost_hint">eg. 80.14</string>
+
+    <string name="date">Date:</string>
+    <string name="station">Station:</string>
+    <string name="odometer">Odometer (km):</string>
+    <string name="fuel_grade">Fuel Grade:</string>
+    <string name="fuel_amount">Fuel Amount (L):</string>
+    <string name="fuel_total">Cost (cents/L):</string>
+    <string name="total">Total Cost ($):</string>
+</resources>
